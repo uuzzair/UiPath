@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Open BotsDNA in Chrome Browser",
+  "Type": "App",
+  "Id": "0CH2IOR6V0WY6jUPFkO1tg",
+  "Reference": "DG0SiwYnQkO3vzbRs78wWw/0CH2IOR6V0WY6jUPFkO1tg",
+  "Created": "2024-12-14T12:27:29.4171945Z",
+  "Updated": "2024-12-14T12:27:29.4171945Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

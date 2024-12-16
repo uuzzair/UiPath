@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jiBF_Z6WH0KoHCByZkwQMA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://botsdna.com/locator/" CVScreenId="521f5037-2e3c-4f22-bf80-f235398130bc" CvTextArea="579, 372, 109, 14" CvTextArgument="CustomerName" CvType="Text" DesignTimeRectangle="442, 368, 383, 23" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl tag='TH' class='ng-binding ng-scope' aaname='CustomerName' check:innerText='CustomerName' /&gt;" Guid="17208b52-aa74-43bf-b8ae-277d070d422e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='botsdna.com/locator/' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="62aaa60d61eb710a5f769433e25dc318.png" xmlns="">0h7_YSWWBKkiuRoQQu6GVEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

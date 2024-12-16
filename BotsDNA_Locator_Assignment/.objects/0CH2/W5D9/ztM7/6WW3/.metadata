@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check if Table is Visible",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "6WW3R0JB6UOUiIVB8fiszg",
+  "Reference": "DG0SiwYnQkO3vzbRs78wWw/6WW3R0JB6UOUiIVB8fiszg",
+  "ParentRef": "DG0SiwYnQkO3vzbRs78wWw/ztM7-BBf7ke5HDwKYSVopw",
+  "Created": "2024-12-14T12:27:29.8342012Z",
+  "Updated": "2024-12-14T12:27:29.8342012Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
